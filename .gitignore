@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local media upload sources (not committed; uploaded to Vercel Blob)
+/assets/audio/
+/assets/video/
